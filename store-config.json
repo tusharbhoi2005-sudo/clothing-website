@@ -1,0 +1,29 @@
+{
+  "storeName": "भद्रा कलेक्शन",
+  "storeType": "online-and-physical",
+  "audience": "adults",
+  "brandStyle": "affordable-and-simple",
+  "currency": "INR",
+  "pricePositioning": "mixed",
+  "categories": [
+    "Shirts",
+    "T-Shirts",
+    "Jeans & Trousers",
+    "Ethnic Wear",
+    "Jackets",
+    "Formal Wear"
+  ],
+  "requestedDomain": "भद्रा_कलेक्शन.com",
+  "domainStatus": "invalid-as-written; underscore must be removed; availability not checked",
+  "contactPhone": "8390512476",
+  "instagramHandle": "tushar_bhoi03",
+  "paymentMethodsRequested": ["UPI", "Cash on delivery"],
+  "deliveryScope": "local-city-only",
+  "deliveryCity": null,
+  "languagesRequested": ["English", "Marathi"],
+  "inventoryStatus": "planning",
+  "adminPanelRequired": true,
+  "checkoutEnabled": false,
+  "realProductDataSupplied": false,
+  "adminPanelImplemented": false
+}
